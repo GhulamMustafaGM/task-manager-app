@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "Meeting with boss",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Meeting with Telnor",
+      "day": "September 8th at 14:300 CET",
+      "reminder": false,
+      "id": "jii16yf"
+    },
+    {
+      "text": "Meeting with Professor",
+      "day": "November 22th at 13:00 CET",
+      "reminder": false,
+      "id": "-H_ThTH"
+    }
+  ]
+}
